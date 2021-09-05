@@ -1,4 +1,5 @@
 #+startup:indent
+#+LaTeX_CLASS: org-article
 #+title:README
 
 Let us test out org mode.

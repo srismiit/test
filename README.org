@@ -1,0 +1,4 @@
+#+startup:indent
+#+title:README
+
+Let us test out org mode. $n=n+1$
